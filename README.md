@@ -2,6 +2,10 @@
 
 Application 1/30 in my 30 app challenge.
 
+### Run This Application
+1. clone the repo: `git clone https://github.com/vpio/Simple-Metronome.git`
+2. open `metronome.html` in your browser!
+
 ### Tone.js
 * This is an amazing library that makes it easy to integrate audio into web development
 * [Check out the repo here](https://github.com/Tonejs/Tone.js)
